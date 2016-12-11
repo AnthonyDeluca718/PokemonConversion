@@ -105,7 +105,6 @@ def team(file_name, moves, mons, items, abilities, natures, berries)
   pokemon = []
   gen = []
 
-
   file.each_line do |line|
 
     line.lstrip!
