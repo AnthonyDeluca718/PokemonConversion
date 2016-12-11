@@ -35,7 +35,6 @@
 25:3:D Pikachu-Pop Star
 25:4:D Pikachu-Ph. D
 25:5:D Pikachu-Libre
-25:6:A Pikachu-Cosplay
 26:0 Raichu
 27:0 Sandshrew
 28:0 Sandslash
@@ -416,7 +415,7 @@
 348:0 Armaldo
 349:0 Feebas
 350:0 Milotic
-351:0:B Castform
+351:0 Castform
 351:1:A Castform-Snowy
 351:2:A Castform-Rainy
 351:4:A Castform-Sunny
@@ -506,7 +505,7 @@
 418:0 Buizel
 419:0 Floatzel
 420:0 Cherubi
-421:0:B Cherrim
+421:0 Cherrim
 421:1:A Cherrim-Sunshine
 422:0 Shellos
 422:1:A Shellos-East
@@ -674,7 +673,7 @@
 552:0 Krokorok
 553:0 Krookodile
 554:0 Darumaka
-555:0:B Darmanitan
+555:0 Darmanitan
 555:1:AD Darmanitan-Zen
 556:0 Maractus
 557:0 Dwebble
@@ -780,7 +779,7 @@
 646:2:D Kyurem-Black
 647:0 Keldeo
 647:1:A Keldeo-Resolute
-648:0:B Meloetta
+648:0 Meloetta
 648:1:AD Meloetta-Pirouette
 649:0 Genesect
 649:1:A Genesect-Douse
@@ -821,7 +820,7 @@
 666:15:A Vivillon-Savannah
 666:16:A Vivillon-Sun
 666:17:A Vivillon-Tundra
-666:18 Vivillon-Fancy
+666:18:A Vivillon-Fancy
 666:19:A Vivillon-Pokeball
 667:0 Litleo
 668:0 Pyroar
@@ -860,7 +859,7 @@
 678:1:D Meowstic-F
 679:0 Honedge
 680:0 Doublade
-681:0:B Aegislash
+681:0 Aegislash
 681:1:AD Aegislash-Blade
 682:0 Spritzee
 683:0 Aromatisse

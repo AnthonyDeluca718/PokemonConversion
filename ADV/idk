@@ -1,5 +1,4 @@
 <Team version="1" gen="3" defaultTier="">
-    <Trainer loseMsg="" avatar="1" winMsg="" infoMsg="">february stars</Trainer>
     <Pokemon Item="8052" Ability="69" Num="142" Nature="13" Shiny="0" Nickname="Aerodactyl" Gen="3" Forme="0" Happiness="0" Lvl="100" Gender="1">
         <Move>38</Move>
         <Move>157</Move>
