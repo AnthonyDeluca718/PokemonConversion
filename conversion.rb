@@ -117,6 +117,7 @@ def team(file_name, moves, mons, items, abilities, natures, berries)
       start = (data =~ / gen=/)
       gen.push(data[start+6])
     when "Pokemon"
+      
 
       # :species, :moves, :nick, :gender, :nature, :evs, :dvs, :ability, :item, :happiness, :shiny
 
